@@ -28,126 +28,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取市役所前",
-        "標柱": "上り（閖上）",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.892196,
-          38.172981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "名取市役所目",
-        "標柱": "上り（閖上）",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.893575,
-          38.172969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "名取一中前",
-        "標柱": "まちなかでは無い",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.881328,
-          38.165803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "箱塚",
-        "標柱": "愛島線",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.870326,
-          38.159717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "箱塚",
-        "標柱": "愛島線下り",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.870352,
-          38.159439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "手倉田諏訪",
         "標柱": "全線",
         "_markerType": "Icon",
@@ -508,42 +388,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取一中前(愛島線)",
-        "標柱": "愛島線",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.880845,
-          38.165327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
         "name": "名取一中前(右)",
         "標柱": "右回り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "_iconSize": "20,20",
+        "_iconAnchor": "10,10"
       },
       "geometry": {
         "type": "Point",
@@ -892,30 +745,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取が丘公民館前(愛島)",
-        "標柱": "愛島",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.873378,
-          38.155718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "箱塚南(右)",
         "標柱": "右回り",
         "_markerType": "Icon",
@@ -1054,54 +883,6 @@
         "coordinates": [
           140.876591,
           38.164783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "小山住宅前(愛島線)",
-        "標柱": "愛島線",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.877718,
-          38.165234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "小山住宅前(愛島線)",
-        "標柱": "愛島線",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.877519,
-          38.165424
         ]
       }
     },
