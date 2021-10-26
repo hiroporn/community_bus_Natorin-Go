@@ -28,54 +28,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取市役所前",
-        "標柱": "上り（閖上）",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.892196,
-          38.172981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "名取市役所前",
-        "標柱": "上り（閖上）",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.893575,
-          38.172969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "箱塚",
         "標柱": "愛島線",
         "_markerType": "Icon",
