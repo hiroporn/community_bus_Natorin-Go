@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "手倉田諏訪",
+        "name": "手倉田諏訪(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -268,7 +268,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "県立高等看護学校前(下り)",
+        "name": "県立高等看護学校前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
