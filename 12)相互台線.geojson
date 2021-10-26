@@ -1,0 +1,2501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "相互台三丁目(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.806146,
+          38.200776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "相互台三丁目(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.806221,
+          38.200692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ライフタウン名取(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.806902,
+          38.202749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ライフタウン名取(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.807063,
+          38.202682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ライフタウン名取中央(上)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.808259,
+          38.206155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ライフタウン名取中央(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.808399,
+          38.206092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新豊橋(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.81342,
+          38.20978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新豊橋(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.813624,
+          38.20981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桜坂(上下)",
+        "標柱": "上下共通",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.816751,
+          38.210539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "相互台入口(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8157,
+          38.213961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "相互台入口(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.816032,
+          38.214766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "余方(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.821955,
+          38.214657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "余方(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.821633,
+          38.214277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘入口(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.834459,
+          38.208646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘入口(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.83425,
+          38.208558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘一丁目北(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.831487,
+          38.209076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘一丁目北(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.830886,
+          38.209152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘一丁目(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.829551,
+          38.206391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘一丁目(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.829379,
+          38.206395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘二丁目(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.82998,
+          38.20409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘二丁目(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.829889,
+          38.203508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘三丁目(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.829476,
+          38.200911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ゆりが丘三丁目(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.829239,
+          38.200498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "みどり台中学校前(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.831401,
+          38.200068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "みどり台中学校前(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.831927,
+          38.199903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "みどり台(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.834078,
+          38.19828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "みどり台(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.834148,
+          38.198719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "みどり台入口(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.835199,
+          38.195641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "みどり台入口",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.835049,
+          38.195608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘五丁目(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.837678,
+          38.196173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘五丁目(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.837747,
+          38.196076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘二丁目(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.84132,
+          38.195409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘二丁目(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.841234,
+          38.195321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘小学校前(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.843107,
+          38.193736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘小学校前(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.842994,
+          38.193685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘一丁目(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.842012,
+          38.198049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘一丁目(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.842259,
+          38.198116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘一丁目児童公園前(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.844582,
+          38.199832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘一丁目児童公園前(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.844855,
+          38.199857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘入口(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.843026,
+          38.20309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "那智が丘入口(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.843251,
+          38.20323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "熊野堂(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.848567,
+          38.201451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "熊野堂(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.848573,
+          38.20156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "飛鳥(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.851851,
+          38.198702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "飛鳥(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.851743,
+          38.198495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岩口下(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.849608,
+          38.197914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岩口下(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.849817,
+          38.198032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岩口南(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.847516,
+          38.197433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岩口南(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.847479,
+          38.197336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秀麗齋前(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8492,
+          38.190628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秀麗齋前(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.849077,
+          38.19062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高舘公民館前(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.850198,
+          38.187753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高舘公民館前(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.850043,
+          38.187698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宮神明(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.870385,
+          38.184506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宮神明(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.870358,
+          38.184359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "早渕(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.87377,
+          38.183608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "早渕(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.873673,
+          38.183511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "田高(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.87783,
+          38.179754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "田高(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.878415,
+          38.179606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "田高南(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.879579,
+          38.177679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "田高南(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.879445,
+          38.177823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "手倉田八幡(下)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.880212,
+          38.171096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "手倉田八幡(上)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.88018,
+          38.170653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "吉祥寺前(下)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.873367,
+          38.169907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "吉祥寺前(上)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.87312,
+          38.170004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙台高専名取キャンパス前(上)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.867611,
+          38.169253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙台高専名取キャンパス前(下)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.867627,
+          38.169182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "県立がんセンター前(上)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.861732,
+          38.166638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "県立がんセンター(下)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.861619,
+          38.166693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "手倉田諏訪(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.876843,
+          38.170135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "手倉田諏訪(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.876747,
+          38.170046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "県立高等看護学校前(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863019,
+          38.169118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "県立高等看護学校前(上)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.862949,
+          38.169004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "名取駅西口(降車専用)",
+        "標柱": "降車専用",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.882079,
+          38.173391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "名取駅西口(乗車専用)",
+        "標柱": "乗車専用",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.882267,
+          38.17299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南仙台駅西口(降車専用)",
+        "標柱": "降車専用",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.883093,
+          38.197349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南仙台駅西口(乗車専用)",
+        "標柱": "乗車専用",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.883114,
+          38.19702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西中田五丁目東(下り)※暫定",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.877889,
+          38.197349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西中田五丁目東(上り)※暫定",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.877632,
+          38.197079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙台南税務署入り口(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.872332,
+          38.196872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙台南税務署入り口(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.872568,
+          38.197058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "柳生市民センター入口(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.869467,
+          38.196636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "柳生市民センター入口(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.869473,
+          38.196847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "柳生四丁目南(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.864897,
+          38.195578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "柳生四丁目南(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.864736,
+          38.195426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高舘窪田(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.865224,
+          38.190877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高舘窪田",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.865079,
+          38.190881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高舘吉田(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.865422,
+          38.187922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高舘吉田(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.865278,
+          38.187905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "内舘(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.860584,
+          38.186286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "八反(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.854077,
+          38.180981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "八反(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.853932,
+          38.180981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "農業園芸研究所(上下共通)",
+        "標柱": "上下共通",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.848804,
+          38.176642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "農業園芸研究所入り口(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.853111,
+          38.178185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "農業園芸研究所入り口(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.853165,
+          38.178105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前沖(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.872326,
+          38.178518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前沖(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.872257,
+          38.178409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高舘小学校前(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.85619,
+          38.186496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高舘小学校前(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.855981,
+          38.18637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "内舘(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.860605,
+          38.186404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三条郷(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.86391,
+          38.185674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三条郷(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863797,
+          38.185565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "県農業高校前(上り)",
+        "標柱": "上り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863942,
+          38.181196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "県農業高校前(下り)",
+        "標柱": "下り",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863786,
+          38.181226
+        ]
+      }
+    }
+  ]
+}
