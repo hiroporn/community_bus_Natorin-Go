@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "不二が丘小学校前(上り)",
+        "name": "不二が丘小学校前(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -76,7 +76,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "不二が丘小学校前(下り)",
+        "name": "不二が丘小学校前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -100,7 +100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取が丘四丁目公園前(上り)",
+        "name": "名取が丘四丁目公園前(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取が丘四丁目公園前(下り)",
+        "name": "名取が丘四丁目公園前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -172,7 +172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "山居住宅前(下り)",
+        "name": "山居住宅前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -532,7 +532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "小山住宅前(上り)",
+        "name": "小山住宅前(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -556,7 +556,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "小山住宅前(下り)",
+        "name": "小山住宅前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -820,7 +820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ホームセンタームサシ北(上り)",
+        "name": "ホームセンタームサシ北(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -844,7 +844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ホームセンタームサシ北(下り)",
+        "name": "ホームセンタームサシ北(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -868,7 +868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "宮城県警察学校(上り)",
+        "name": "宮城県警察学校(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -892,7 +892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "宮城県警察学校前(下り)",
+        "name": "宮城県警察学校前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -916,7 +916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "愛島郷二丁目(下り)",
+        "name": "愛島郷二丁目(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -940,7 +940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "愛島郷二丁目(上り)",
+        "name": "愛島郷二丁目(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -964,7 +964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "愛の郷公園入口(上り)",
+        "name": "愛の郷公園入口(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -988,7 +988,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "愛の郷公園入口下り)",
+        "name": "愛の郷公園入口下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1012,7 +1012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "あいの杜公園前(上り)",
+        "name": "あいの杜公園前(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1036,7 +1036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "あいの杜公園前(下り)",
+        "name": "あいの杜公園前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1060,7 +1060,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "愛の杜(下り)",
+        "name": "愛の杜(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1084,7 +1084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "愛の杜(上り)",
+        "name": "愛の杜(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1156,30 +1156,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取駅前",
-        "標柱": "乗降場",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.883157,
-          38.173243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "名取駅西口(降車専用)",
         "標柱": "降車専用",
         "_markerType": "Icon",
@@ -1228,7 +1204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取が丘公民館前(下り)",
+        "name": "名取が丘公民館前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1252,7 +1228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取が丘公民館前(上り)",
+        "name": "名取が丘公民館前(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1276,7 +1252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取が丘四丁目県営住宅前(上り)",
+        "name": "名取が丘四丁目県営住宅前(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1300,7 +1276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取が丘四丁目県営住宅前(下り)",
+        "name": "名取が丘四丁目県営住宅前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1324,7 +1300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取一中前(下り)",
+        "name": "名取一中前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -1348,7 +1324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取一中前(上り)",
+        "name": "名取一中前(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
