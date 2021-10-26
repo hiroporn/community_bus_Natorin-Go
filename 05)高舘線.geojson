@@ -580,8 +580,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "農業園芸研究所(上下共通)",
-        "標柱": "上下共通",
+        "name": "農業園芸研究所(共通)",
+        "標柱": "共通",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
