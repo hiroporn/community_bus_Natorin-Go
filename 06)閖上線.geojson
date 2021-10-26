@@ -76,7 +76,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "震災メモリアル広場(上り)",
+        "name": "震災メモリアル広場(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -580,7 +580,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "中荷前(下り)",
+        "name": "中荷前(下)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -604,7 +604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "中荷前",
+        "name": "中荷前(上)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -628,7 +628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "増田小学校入り口(上り)",
+        "name": "増田小学校入口(上り)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -652,7 +652,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "増田小学校入り口(下り)",
+        "name": "増田小学校入口(下り)",
         "標柱": "下り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
@@ -676,7 +676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "名取駅入り口(上り)",
+        "name": "名取駅入口(上り)",
         "標柱": "上り",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
